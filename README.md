@@ -11,6 +11,8 @@ OpenCV Color detection with C++
 > pacman -S pkg-config opencv python-opencv gcc
 > ```
 
+### This project has only tested on archlinux so I recommand to install archlinux via https://github.com/Team-SADA/EasyArchLinuxInstallation
+
 ## Compile Command
 
 > ```bash
