@@ -14,5 +14,5 @@ OpenCV Color detection with C++
 ## Compile Command
 
 > ```bash
-> g++ -o a a.cpp `pkg-config --cflags --libs opencv4`
+> g++ -o main main.cpp `pkg-config --cflags --libs opencv4`
 > ```
